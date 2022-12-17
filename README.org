@@ -4,9 +4,4 @@
 [[file:test.mov][this is mov]]
 [[file:test.mov]]
 
-[[file:test.jpg][tesimage]]
-
-[[file:test.jpg]]
-
-
-[[file:images/2022-12-17_21-24-33_test.jpg]]
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
