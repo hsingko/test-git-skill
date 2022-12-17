@@ -1,0 +1,4 @@
+
+* test file link
+
+[[file:test.mov][this is mov]]
