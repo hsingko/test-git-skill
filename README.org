@@ -1,7 +1,5 @@
 
 * test file link
-
-[[file:test.mov][this is mov]]
-[[file:test.mov]]
-
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+<video width="320" height="240" controls>
+  <source src="test.mov" type="video/mp4">
+</video>
