@@ -1,3 +1,2 @@
 
-![](test.mov)
-![](test.jpg)
+[![](test.mov)]
